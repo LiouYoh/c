@@ -1,0 +1,14 @@
+﻿Build started 2016/2/1 下午 06:59:39.
+     1>Project "D:\code\c++\ya\ya\ya\ya.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\code\c++\ya\ya\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\ya.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Debug\ya.unsuccessfulbuild".
+         Touching "Debug\ya.lastbuildstate".
+     1>Done Building Project "D:\code\c++\ya\ya\ya\ya.vcxproj" (build target(s)).
+
+建置成功。
+
+Time Elapsed 00:00:00.45
